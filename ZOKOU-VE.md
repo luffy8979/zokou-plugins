@@ -8,17 +8,6 @@
 ---
 
 
-<h4 align="center"> Imgur </h1>
-
-  Description : Upload image on imgur and get a link
-
-```
-https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2931/raw/9eebc434c34c1b83f2b3ff55171a523d5728068b/imgurVE.js
-```
-- Author : Zokou-Devs
----
-
-
 <h4 align="center"> Famous-Tech-Plugins </h1>
 
   Description : Some new pllugins by Famous-Tech
@@ -35,40 +24,7 @@ https://gist.githubusercontent.com/Famous-Tech/1142734b8fd487eff8196e2d299f453e/
   Description : 20 new Logo
 
 ```
-https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217654/raw/5ec7c483d986eb6a79a82ec6297d32371cafb808/logopackVE.js
-```
-- Author : Zokou-Devs
----
-
-
-<h4 align="center"> Sportify </h1>
-
-  Description : sportifydl and sportifysearch
-
-```
-https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf7f8/raw/42ce7f7792432b8616236286bd818ad131ded76f/sportifyVE.js
-```
-- Author : Zokou-Devs
----
-
-
-<h4 align="center"> aAipack </h1>
-
-  Description : Includes most of actual Ai commands
-
-```
-https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6d1e/raw/56cdabd35c821d87a6bcedb1ff934faf08ec5a0f/aipackVE.js
-```
-- Author : Zokou-devs
----
-
-
-<h4 align="center"> Catbox </h1>
-
-  Description : Upload  image , video and audio on catbox and get a link
-
-```
-https://gist.githubusercontent.com/Luffy2ndAccount/d17e8434d5dbf330cc603a0f60d91c5a/raw/6fc3951b624e956c0af74013f1023d3ac387f338/catboxVE.js
+https://gist.githubusercontent.com/Luffy2ndAccount497/adff79af40995100f10205f16ce6bb2d/raw/5496970c0dd4db87b7e7f47affb34eceead08d5b/logopackVE.js
 ```
 - Author : Zokou-Devs
 ---
@@ -79,7 +35,7 @@ https://gist.githubusercontent.com/Luffy2ndAccount/d17e8434d5dbf330cc603a0f60d91
   Description : Put a not-cropped image on your whatsapp profil or group pic
 
 ```
-https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/f50fff6ce738190d85643806a84c6fda0502959c/fullppVE.js
+https://gist.githubusercontent.com/Luffy2ndAccount497/0f06ffe5141a36a1de1cf66088e7161b/raw/d1919d5b8980df622efb03e856def5bd91d54db8/fullppVE.js
 ```
 - Author : Zokou-Devs
 ---
@@ -90,7 +46,7 @@ https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9
   Description : Download videos and audios from tubidy
 
 ```
-https://gist.githubusercontent.com/Luffy2ndAccount/b719ae5240bc4cd2d8082aea7b0bbb91/raw/349b691f8f2961ffac87e11ffd655158f87e87e0/tubidyVE.js
+https://gist.githubusercontent.com/Luffy2ndAccount497/b8ce7b4910e8b3a725c5fab67218a661/raw/db49ef633f85ef9d91abb8e2bc11956cc2b11470/tubidyVE.js
 ```
 - Author : Zokou-Devs
 ---

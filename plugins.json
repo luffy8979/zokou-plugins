@@ -1,12 +1,6 @@
 {
   "pluginsVF": [
     {
-      "name": "Imgur",
-      "desc": "Uploader des images sur imgur et obtenir leurs liens",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/d7c2280305738a6f9a6c2c60b1bab8f9/raw/2af46631ae25eed65044311b3065c0100dac7e85/imgurVF.js",
-      "author": "Zokou-devs"
-    },
-    {
       "name": "LogoPack",
       "desc": "20 nouveaux logos",
       "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/4ccd1032678d5eda3af071da638dd69d/raw/3d1bdfbfde7f0cc505da79142b1b9abc57c78952/logopackVF.js",
@@ -28,7 +22,7 @@
       "name": "Tictactoe",
       "desc": "Jouer aux Jeux Tic-tac-toe (ttt)",
       "author": "Ainz",
-      "url": "https://gist.githubusercontent.com/Nignanfatao/9cfee3f9fcdb347d5a775120fd83223d/raw/d4866966e9a450ba654b98562e56f4df2a2752e6/ttt.js" 
+      "url": "https://gist.githubusercontent.com/Nignanfatao/9cfee3f9fcdb347d5a775120fd83223d/raw/d4866966e9a450ba654b98562e56f4df2a2752e6/ttt.js"
     },
     {
       "name": "pint&pintdl",
@@ -50,19 +44,13 @@
     },
     {
       "name": "tubidy Downloader",
-      "desc" : "Telechargement des videos et audios depuis tubidy",
-      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount497/af132e166c353e149b274a4365d38d31/raw/6a3fc858c72ae9573c513a4ca867f412344b6d5c/tubidyVF.js",
-      "author" : "Zokou-Devs"
+      "desc": "Telechargement des videos et audios depuis tubidy",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/af132e166c353e149b274a4365d38d31/raw/6a3fc858c72ae9573c513a4ca867f412344b6d5c/tubidyVF.js",
+      "author": "Zokou-Devs"
     }
   ],
   "pluginsVE": [
     {
-      "name": "Imgur",
-      "desc": "Upload image on imgur and get a link",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/99afb2aede591df729d5c2294e9a2931/raw/9eebc434c34c1b83f2b3ff55171a523d5728068b/imgurVE.js",
-      "author": "Zokou-Devs"
-    },
-        {
       "name": "Famous-Tech-Plugins",
       "desc": "Some new pllugins by Famous-Tech",
       "url": "https://gist.githubusercontent.com/Famous-Tech/1142734b8fd487eff8196e2d299f453e/raw/8747b1bb6ea05aee04b2a9be4e89f0cca2e94282/FAMOUS-PLUG-VE.js",
@@ -82,9 +70,9 @@
     },
     {
       "name": "tubidy Downloader",
-      "desc" : "Download videos and audios from tubidy",
-      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount497/b8ce7b4910e8b3a725c5fab67218a661/raw/db49ef633f85ef9d91abb8e2bc11956cc2b11470/tubidyVE.js",
-      "author" : "Zokou-Devs"
+      "desc": "Download videos and audios from tubidy",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/b8ce7b4910e8b3a725c5fab67218a661/raw/db49ef633f85ef9d91abb8e2bc11956cc2b11470/tubidyVE.js",
+      "author": "Zokou-Devs"
     }
   ]
 }
