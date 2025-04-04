@@ -1,22 +1,10 @@
 {
   "pluginsVF": [
     {
-      "name": "LogoPack",
-      "desc": "20 nouveaux logos",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/4ccd1032678d5eda3af071da638dd69d/raw/3d1bdfbfde7f0cc505da79142b1b9abc57c78952/logopackVF.js",
-      "author": "Zokou-devs"
-    },
-    {
       "name": "FAMOUS_PACK1",
       "desc": "Un super pack de plugins préparer pour vous",
       "author": "FAMOUS-TECH",
       "url": "https://gist.githubusercontent.com/Famous-Tech/5da335a245c92e6e3c5283da5cbecbe9/raw/f0a263e7e5f12803ac7b00e1c6aa6af9525e9796/FAMOUS-TECH_PLUGINS.js"
-    },
-    {
-      "name": "Fullpp",
-      "desc": "Vous permets de mettre une image en taille reel sur votre photo de profile , et vos groupes whatsapp",
-      "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/74da6d1c3f32cae947c58489eadd66ee/raw/c75360cea2932cc91d8449dd9d994db64eeb540c/fullppVF.js"
     },
     {
       "name": "Tictactoe",
@@ -41,12 +29,6 @@
       "desc": "nouvelles commandes",
       "author": "Ainz",
       "url": "https://gist.githubusercontent.com/Nignanfatao/482680cb66f6a84f5c0578bc4b5bb9a5/raw/f6237b2f1ff563e1e6d969a36c1500e9b0381785/Other_plugin.js"
-    },
-    {
-      "name": "tubidy Downloader",
-      "desc": "Telechargement des videos et audios depuis tubidy",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/af132e166c353e149b274a4365d38d31/raw/6a3fc858c72ae9573c513a4ca867f412344b6d5c/tubidyVF.js",
-      "author": "Zokou-Devs"
     }
   ],
   "pluginsVE": [
@@ -55,24 +37,6 @@
       "desc": "Some new pllugins by Famous-Tech",
       "url": "https://gist.githubusercontent.com/Famous-Tech/1142734b8fd487eff8196e2d299f453e/raw/8747b1bb6ea05aee04b2a9be4e89f0cca2e94282/FAMOUS-PLUG-VE.js",
       "author": "Famous-Tech"
-    },
-    {
-      "name": "LogoPack",
-      "desc": "20 new Logo",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/adff79af40995100f10205f16ce6bb2d/raw/5496970c0dd4db87b7e7f47affb34eceead08d5b/logopackVE.js",
-      "author": "Zokou-Devs"
-    },
-    {
-      "name": "Fullpp",
-      "desc": "Put a not-cropped image on your whatsapp profil or group pic",
-      "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/0f06ffe5141a36a1de1cf66088e7161b/raw/d1919d5b8980df622efb03e856def5bd91d54db8/fullppVE.js"
-    },
-    {
-      "name": "tubidy Downloader",
-      "desc": "Download videos and audios from tubidy",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/b8ce7b4910e8b3a725c5fab67218a661/raw/db49ef633f85ef9d91abb8e2bc11956cc2b11470/tubidyVE.js",
-      "author": "Zokou-Devs"
     }
   ]
 }
