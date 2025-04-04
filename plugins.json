@@ -9,19 +9,7 @@
     {
       "name": "LogoPack",
       "desc": "20 nouveaux logos",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/17faf5b222e554726961e8a0d6b5be72/raw/105db19b22d64d0837a5c3ac87d0eba518b1766a/logopackVF.js",
-      "author": "Zokou-devs"
-    },
-    {
-      "name": "Sportify",
-      "desc": "sportifydl et sportifysearch",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js",
-      "author": "Zokou-devs"
-    },
-    {
-      "name": "aAipack",
-      "desc": "Contient des commandes se servant de divers inteligence artificelles",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb477/raw/5d5302dcfcc5b628984247a97104cba7ac782ff6/aipackVF.js",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/4ccd1032678d5eda3af071da638dd69d/raw/3d1bdfbfde7f0cc505da79142b1b9abc57c78952/logopackVF.js",
       "author": "Zokou-devs"
     },
     {
@@ -34,7 +22,7 @@
       "name": "Fullpp",
       "desc": "Vous permets de mettre une image en taille reel sur votre photo de profile , et vos groupes whatsapp",
       "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509e2c/raw/7c2c80fec720fd8556f781b0b2825518889b75aa/fullppVF.js"
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/74da6d1c3f32cae947c58489eadd66ee/raw/c75360cea2932cc91d8449dd9d994db64eeb540c/fullppVF.js"
     },
     {
       "name": "Tictactoe",
@@ -63,7 +51,7 @@
     {
       "name": "tubidy Downloader",
       "desc" : "Telechargement des videos et audios depuis tubidy",
-      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/8dedc7901b9b2b1292c18da23477cab5/raw/1e9cf4e2d108087ca1081e823916c372cc918220/tubidyVF.js",
+      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount497/af132e166c353e149b274a4365d38d31/raw/6a3fc858c72ae9573c513a4ca867f412344b6d5c/tubidyVF.js",
       "author" : "Zokou-Devs"
     }
   ],
@@ -83,31 +71,19 @@
     {
       "name": "LogoPack",
       "desc": "20 new Logo",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/501363334c5d339e6510b70d09217654/raw/5ec7c483d986eb6a79a82ec6297d32371cafb808/logopackVE.js",
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/adff79af40995100f10205f16ce6bb2d/raw/5496970c0dd4db87b7e7f47affb34eceead08d5b/logopackVE.js",
       "author": "Zokou-Devs"
-    },
-    {
-      "name": "Sportify",
-      "desc": "sportifydl and sportifysearch",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/58b0cb63a3dc82e690005d5407faf7f8/raw/42ce7f7792432b8616236286bd818ad131ded76f/sportifyVE.js",
-      "author": "Zokou-Devs"
-    },
-    {
-      "name": "aAipack",
-      "desc": "Includes most of actual Ai commands",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/01bfdbb1388e5c6f45e1694fd98e6d1e/raw/56cdabd35c821d87a6bcedb1ff934faf08ec5a0f/aipackVE.js",
-      "author": "Zokou-devs"
     },
     {
       "name": "Fullpp",
       "desc": "Put a not-cropped image on your whatsapp profil or group pic",
       "author": "Zokou-Devs",
-      "url": "https://gist.githubusercontent.com/Luffy2ndAccount/de9bde17be37df12405243b4b1da9e94/raw/5774832c59dcdbf3817d4fbd1caf6b2f95a76830/fullppVE.js"
+      "url": "https://gist.githubusercontent.com/Luffy2ndAccount497/0f06ffe5141a36a1de1cf66088e7161b/raw/d1919d5b8980df622efb03e856def5bd91d54db8/fullppVE.js"
     },
     {
       "name": "tubidy Downloader",
       "desc" : "Download videos and audios from tubidy",
-      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount/b719ae5240bc4cd2d8082aea7b0bbb91/raw/349b691f8f2961ffac87e11ffd655158f87e87e0/tubidyVE.js",
+      "url" : "https://gist.githubusercontent.com/Luffy2ndAccount497/b8ce7b4910e8b3a725c5fab67218a661/raw/db49ef633f85ef9d91abb8e2bc11956cc2b11470/tubidyVE.js",
       "author" : "Zokou-Devs"
     }
   ]
