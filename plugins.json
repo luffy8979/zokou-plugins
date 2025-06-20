@@ -1,42 +1,18 @@
 {
   "pluginsVF": [
     {
-      "name": "FAMOUS_PACK1",
-      "desc": "Un super pack de plugins préparer pour vous",
-      "author": "FAMOUS-TECH",
-      "url": "https://gist.githubusercontent.com/Famous-Tech/5da335a245c92e6e3c5283da5cbecbe9/raw/f0a263e7e5f12803ac7b00e1c6aa6af9525e9796/FAMOUS-TECH_PLUGINS.js"
-    },
-    {
-      "name": "Tictactoe",
-      "desc": "Jouer aux Jeux Tic-tac-toe (ttt)",
-      "author": "Ainz",
-      "url": "https://gist.githubusercontent.com/Nignanfatao/9cfee3f9fcdb347d5a775120fd83223d/raw/d4866966e9a450ba654b98562e56f4df2a2752e6/ttt.js"
-    },
-    {
-      "name": "pint&pintdl",
-      "desc": "Télécharger des images pinterest",
-      "author": "Ainz",
-      "url": "https://gist.githubusercontent.com/Nignanfatao/e964be9b08cd424cca76a85f4ced36d5/raw/d5a6ca19449fb672692b8186f8d5da8c2fc0e226/pinterest_&_pinterest_dl.js"
-    },
-    {
-      "name": "groupe_adm",
-      "desc": "quelques plugins pour la gestions des groupes",
-      "author": "Ainz",
-      "url": "https://gist.githubusercontent.com/Nignanfatao/93fd7adda0b7651f5535a653cb573eef/raw/2d1a7136b81a72d2bee69e9903ce51583dc207e3/groupe_new_pg.js"
-    },
-    {
-      "name": "other_pg",
-      "desc": "nouvelles commandes",
-      "author": "Ainz",
-      "url": "https://gist.githubusercontent.com/Nignanfatao/482680cb66f6a84f5c0578bc4b5bb9a5/raw/f6237b2f1ff563e1e6d969a36c1500e9b0381785/Other_plugin.js"
+      "name": "a_status",
+      "desc": "Envoyez automatiquement votre statut lorsque quelqu'un le demande",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/93bbc56e1be9c90546bfb949efb622ea"
     }
   ],
   "pluginsVE": [
     {
-      "name": "Famous-Tech-Plugins",
-      "desc": "Some new pllugins by Famous-Tech",
-      "url": "https://gist.githubusercontent.com/Famous-Tech/1142734b8fd487eff8196e2d299f453e/raw/8747b1bb6ea05aee04b2a9be4e89f0cca2e94282/FAMOUS-PLUG-VE.js",
-      "author": "Famous-Tech"
+      "name": "a_status",
+      "desc": "Auto send your status when someoone asking for",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/93bbc56e1be9c90546bfb949efb622ea"
     }
   ]
 }

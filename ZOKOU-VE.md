@@ -1,19 +1,45 @@
-<h1 align="center"> ZOKOU-2.0 English-version-plugins </h1>
+# 🎉 ZOKOU EN - English Plugins
+
 <div align="center">
-<br /> 
+  
+✨ *Create your own plugins and submit them via Pull Request!* ✨  
+
+![Plugins](https://img.shields.io/badge/Total_Plugins-1-blue) 
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-green)
+
+</div>
+
+## 📋 Table of Contents
+- [a_status](#a_status)
+
 ---
 
-- Make your own plugins and propose it. thanks
 
----
+## 🛠 a_status 
+
+> **Description** : Auto send your status when someoone asking for  
+> **Command** : `Not specified`  
+> **Link** : [Link](https://gist.github.com/stark989ioio/93bbc56e1be9c90546bfb949efb622ea)  
+> **Author** : [Luffy](#)  
+> **Version** : 1.0.0  
 
 
-<h4 align="center"> Famous-Tech-Plugins </h1>
 
-  Description : Some new pllugins by Famous-Tech
-
+🔹 **Usage example** :  
+```bash
+No example provided
 ```
-https://gist.githubusercontent.com/Famous-Tech/1142734b8fd487eff8196e2d299f453e/raw/8747b1bb6ea05aee04b2a9be4e89f0cca2e94282/FAMOUS-PLUG-VE.js
-```
-- Author : Famous-Tech
+
 ---
+
+
+## 🤝 How to contribute
+1. Fork the repository
+2. Create your plugin
+3. Submit a Pull Request
+
+<div align="center">
+  
+Made with ❤️ by ZOKOU community
+
+</div>
