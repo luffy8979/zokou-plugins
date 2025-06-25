@@ -50,7 +50,7 @@ plugin install https://gist.github.com/your-username/gist-ID
 // name : Plugin name
 // description : Plugin description
 // author : Plugin author
-// data : Plugin data
+// date : creation date
 
 const { zokou } = require("../framework/zokou");
 
