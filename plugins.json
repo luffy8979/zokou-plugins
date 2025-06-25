@@ -5,6 +5,12 @@
       "desc": "Envoyez automatiquement votre statut lorsque quelqu'un le demande",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/93bbc56e1be9c90546bfb949efb622ea"
+    },
+    {
+      "name": "tubidy",
+      "desc": "Téléchargez des vidéos et audio de Tubidy",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/6682680cbf478c41f06052130d995aa4"
     }
   ],
   "pluginsVE": [
@@ -13,6 +19,12 @@
       "desc": "Auto send your status when someoone asking for",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/93bbc56e1be9c90546bfb949efb622ea"
+    },
+    {
+      "name": "tubidy",
+      "desc": "Download videos and audio from Tubidy",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/0edaa07ed57fc95bd5f5ff8bbc2f6d87"
     }
   ]
 }

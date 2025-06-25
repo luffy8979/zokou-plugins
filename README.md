@@ -1,67 +1,75 @@
 # ZOKOU
 
-Bienvenue dans **ZOKOU**, une application qui vous permet de choisir entre deux versions linguistiques :
+Welcome to **ZOKOU-MD**, choose between two language versions:
 
-- **[ZOKOU-VF](./ZOKOU-VF.md)** (Version Française)
-- **[ZOKOU-VE](./ZOKOU-VE.md)** (Version Anglaise)
+## Version Selection
 
-## Choisissez votre version
+### 🟢 [ZOKOU-VF (French Version)](./ZOKOU-VF.md)
 
-### 🟢 [ZOKOU-VF (Version Française)](./ZOKOU-VF.md)
-La version française inclut une interface et des commandes en français. Suivez le lien ci-dessus pour plus de détails.
+- Interface and commands in French
+- Installation: `plugin install` for required plugins
 
-**Installation :**
-- Utilisez la commande `plugin install` pour installer les plugins nécessaires.
+### 🔵 [ZOKOU-VE (English Version)](./ZOKOU-VE.md)
 
-### 🔵 [ZOKOU-VE (Version Anglaise)](./ZOKOU-VE.md)
-The English version provides an interface and commands in English. Follow the link above for more details.
+- Interface and commands in English
+- Installation: `plugin install` for required plugins
 
-**Installation :**
+**Installation:**
+
 - Use the `plugin install` command to install the required plugins.
 
 ---
 
-## How to create plugins
+## 🛠 Plugin Creation
 
-To create and share a plugin with ZOKOU, follow these simple steps:
+### How to Create and Share a Plugin
 
 1. **Go to [gist.github.com](https://gist.github.com)**
-   - GitHub Gist allows you to easily share script files.
-   
-2. **Create a new Gist:**
-   - Click on **"Create a new gist"**.
-   - Paste your plugin script into the editor.
-   - **Make sure the Gist is public** so that everyone can access it.
+   - Click on *"Create a new gist"*
 
-3. **Get the RAW link of the Gist:**
-   - Once the Gist is created, click on **"Raw"** to get the direct link to the raw file.
-   - This link will be used to install the plugin in ZOKOU.
+1. **Configure your Gist:**
+   - File name: my-plugin.js (must end with .js)
+   - Content: Paste your plugin code
+   - Visibility: Public (required)
 
-4. **Install the plugin in ZOKOU:**
-   - Use the following command to install your plugin with the RAW Gist link:
-     ```bash
-     plugin install https://gist.githubusercontent.com/your-gist-raw-link
-     ```
+1. **Share the Gist link:**
 
----
+- Copy the standard URL of your Gist (e.g., `https://gist.github.com/your-username/gist-ID`)
 
-## Example plugin or script syntax
+1. **Install in ZOKOU:**
 
-Here's a space where you can provide an example plugin or indicate the syntax to use for your plugin scripts:
+```txt
+plugin install https://gist.github.com/your-username/gist-ID
+```
+
+## 🧱 ZOKOU Plugin Structure
+
+### 📂 Main File
 
 ```js
-// Example plugin syntax
+// name : Plugin name
+// description : Plugin description
+// author : Plugin author
+// data : Plugin data
 
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "pugtest",
-                 categorie: "General",
-                 reaction: "👨🏿‍💻",
-                 desc: "Plugins exemple",
-                 alias: ["pugt"]
-      }, async (origineMessage, zk, commandeOptions) => {
-  const { ms, msgRepondu, arg, repondre, nomAuteurMessage } = commandeOptions;
+zokou({
+  // Required:
+  nomCom: "command",  // Main name of the plugin
+  categorie: "Category", // "General", "Fun", "Admin", etc.
+  plugin: "plugin", // Plugin name
+  
+  // Optional:
+  reaction: "🎯",      // Associated emoji
+  desc: "Description", // Help for users
+  alias: ["cmd", "alt"] // Other names for the command
+}, async (dest, zk, ops) => {
+  // Your code here
 
-  zk.sendMessage(origineMessage,{text : "Hi , My name is XXXXX"}) ;
+  // Example
+  const {repondre} = ops;
 
-}); 
+  repondre("Hello World!");
+});
+```
