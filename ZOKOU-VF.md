@@ -4,7 +4,7 @@
   
 ✨ *Créez vos propres plugins et proposez-les via Pull Request !* ✨  
 
-![Plugins](https://img.shields.io/badge/Total_Plugins-2-blue) 
+![Plugins](https://img.shields.io/badge/Total_Plugins-3-blue) 
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-green)
 
 </div>
@@ -12,6 +12,7 @@
 ## 📋 Table des matières
 - [a_status](#a_status)
 - [tubidy](#tubidy)
+- [anti_group_mention](#anti_group_mention)
 
 ---
 
@@ -38,6 +39,23 @@ Aucun exemple fourni
 > **Description** : Téléchargez des vidéos et audio de Tubidy  
 > **Commande** : `Non spécifié`  
 > **Lien** : [Lien](https://gist.github.com/stark989ioio/6682680cbf478c41f06052130d995aa4)  
+> **Auteur** : [Luffy](#)  
+> **Version** : 1.0.0  
+
+
+
+🔹 **Exemple d'utilisation** :  
+```bash
+Aucun exemple fourni
+```
+
+---
+
+## 🛠 anti_group_mention 
+
+> **Description** : Active ou désactive le blocage des mentions de status dans les groupes  
+> **Commande** : `Non spécifié`  
+> **Lien** : [Lien](https://gist.github.com/stark989ioio/c5456fd2e2722dd8f55c0d1cda359175)  
 > **Auteur** : [Luffy](#)  
 > **Version** : 1.0.0  
 

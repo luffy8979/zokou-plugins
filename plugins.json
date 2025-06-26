@@ -11,6 +11,12 @@
       "desc": "Téléchargez des vidéos et audio de Tubidy",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/6682680cbf478c41f06052130d995aa4"
+    },
+    {
+      "name": "anti_group_mention",
+      "desc": "Active ou désactive le blocage des mentions de status dans les groupes",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/c5456fd2e2722dd8f55c0d1cda359175"
     }
   ],
   "pluginsVE": [
@@ -25,6 +31,12 @@
       "desc": "Download videos and audio from Tubidy",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/0edaa07ed57fc95bd5f5ff8bbc2f6d87"
+    },
+    {
+      "name": "anti_group_mention",
+      "desc": "Enable or disable blocking status mentions in groups",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/bbd40515901b1d3e128a595a3ed1a0e9"
     }
   ]
 }
