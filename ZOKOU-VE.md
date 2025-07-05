@@ -4,7 +4,7 @@
   
 ✨ *Create your own plugins and submit them via Pull Request!* ✨  
 
-![Plugins](https://img.shields.io/badge/Total_Plugins-3-blue) 
+![Plugins](https://img.shields.io/badge/Total_Plugins-4-blue) 
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-green)
 
 </div>
@@ -13,6 +13,7 @@
 - [a_status](#a_status)
 - [tubidy](#tubidy)
 - [anti_group_mention](#anti_group_mention)
+- [logo](#logo)
 
 ---
 
@@ -57,6 +58,23 @@ No example provided
 > **Command** : `Not specified`  
 > **Link** : [Link](https://gist.github.com/stark989ioio/bbd40515901b1d3e128a595a3ed1a0e9)  
 > **Author** : [Luffy](#)  
+> **Version** : 1.0.0  
+
+
+
+🔹 **Usage example** :  
+```bash
+No example provided
+```
+
+---
+
+## 🛠 logo 
+
+> **Description** : make a text to Logo  
+> **Command** : `Not specified`  
+> **Link** : [Link](https://gist.github.com/Rdx690/2e83b2beb3dcd89d1ef94a245fa168a8)  
+> **Author** : [SOURAJIT-AI](#)  
 > **Version** : 1.0.0  
 
 

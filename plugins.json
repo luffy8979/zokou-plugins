@@ -17,6 +17,12 @@
       "desc": "Active ou désactive le blocage des mentions de status dans les groupes",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/c5456fd2e2722dd8f55c0d1cda359175"
+    },
+    {
+      "name": "manga",
+      "desc": "Téléchargez des mangas depuis scan-vf.net",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/b545512e1a1c0a008b79e7a2ea975e28"
     }
   ],
   "pluginsVE": [
@@ -37,6 +43,12 @@
       "desc": "Enable or disable blocking status mentions in groups",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/bbd40515901b1d3e128a595a3ed1a0e9"
+    },
+    {
+      "name": "logo",
+      "desc": "make a text to Logo",
+      "author": "SOURAJIT-AI",
+      "url": "https://gist.github.com/Rdx690/2e83b2beb3dcd89d1ef94a245fa168a8"
     }
   ]
 }
