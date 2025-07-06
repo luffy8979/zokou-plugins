@@ -23,6 +23,12 @@
       "desc": "Téléchargez des mangas depuis scan-vf.net",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/b545512e1a1c0a008b79e7a2ea975e28"
+    },
+    {
+      "name": "vcf",
+      "desc": "Enregistrer les contacts du groupe dans un fichier vcard",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/8566be851b09cd55888a7979d008a52d"
     }
   ],
   "pluginsVE": [
@@ -49,6 +55,12 @@
       "desc": "make a text to Logo",
       "author": "SOURAJIT-AI",
       "url": "https://gist.github.com/Rdx690/2e83b2beb3dcd89d1ef94a245fa168a8"
+    },
+    {
+      "name": "vcf",
+      "desc": "save group contact to a vcard file",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/8566be851b09cd55888a7979d008a52d"
     }
   ]
 }

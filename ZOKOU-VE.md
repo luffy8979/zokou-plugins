@@ -4,7 +4,7 @@
   
 ✨ *Create your own plugins and submit them via Pull Request!* ✨  
 
-![Plugins](https://img.shields.io/badge/Total_Plugins-4-blue) 
+![Plugins](https://img.shields.io/badge/Total_Plugins-5-blue) 
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-green)
 
 </div>
@@ -14,6 +14,7 @@
 - [tubidy](#tubidy)
 - [anti_group_mention](#anti_group_mention)
 - [logo](#logo)
+- [vcf](#vcf)
 
 ---
 
@@ -75,6 +76,23 @@ No example provided
 > **Command** : `Not specified`  
 > **Link** : [Link](https://gist.github.com/Rdx690/2e83b2beb3dcd89d1ef94a245fa168a8)  
 > **Author** : [SOURAJIT-AI](#)  
+> **Version** : 1.0.0  
+
+
+
+🔹 **Usage example** :  
+```bash
+No example provided
+```
+
+---
+
+## 🛠 vcf 
+
+> **Description** : save group contact to a vcard file  
+> **Command** : `Not specified`  
+> **Link** : [Link](https://gist.github.com/stark989ioio/8566be851b09cd55888a7979d008a52d)  
+> **Author** : [Luffy](#)  
 > **Version** : 1.0.0  
 
 
