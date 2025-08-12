@@ -29,6 +29,12 @@
       "desc": "Enregistrer les contacts du groupe dans un fichier vcard",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/8566be851b09cd55888a7979d008a52d"
+    },
+    {
+      "name": "listonline",
+      "desc": "Affiche les personnes en ligne dans un groupe",
+      "author": "Luffy"    ,
+      "url" : "https://gist.github.com/stark989ioio/28140adeea468b3d6769bb5ace0a7bb5"
     }
   ],
   "pluginsVE": [
@@ -61,6 +67,12 @@
       "desc": "save group contact to a vcard file",
       "author": "Luffy",
       "url": "https://gist.github.com/stark989ioio/8566be851b09cd55888a7979d008a52d"
+    },
+    {
+      "name":"listonline",
+      "desc": "list online user in a group",
+      "author": "Luffy",
+      "url": "https://gist.github.com/stark989ioio/d86555358246cd2f21352265dfe6ac38"
     }
   ]
 }
